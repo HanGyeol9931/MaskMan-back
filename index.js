@@ -130,7 +130,7 @@ function createinit(index){
 }
 const options = {
     credentials: true,
-    origin : "http://192.168.0.112:3000" // 이주소 허용
+    origin : "http://13.125.218.188" // 이주소 허용
 }
 
 // 전달 받은 객체 형태를 해석해서 사용할수 있게 설정
