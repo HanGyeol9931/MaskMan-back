@@ -1,0 +1,31 @@
+{
+  "name": "MaskMan #63",
+  "description": "Random MaskMan",
+  "image": "ipfs://NewUriToReplace/63.png",
+  "dna": "b84a2add1b4ddc216e074dc2e3707ecb25eb0130",
+  "edition": 63,
+  "date": 1665397289981,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Header",
+      "value": "Header"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gary"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

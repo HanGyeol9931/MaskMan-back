@@ -1,0 +1,3102 @@
+[
+  {
+    "name": "MaskMan #1",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "c2843803e53ab2cc4c39f85187729c8b8521a7bc",
+    "edition": 1,
+    "date": 1665397288055,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": ""
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #2",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "1064a0aa2c92921aa013d38860a0d633092b45d1",
+    "edition": 2,
+    "date": 1665397288090,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #3",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "325c824a2ba9fa790b94bc597f7d27cdd131539d",
+    "edition": 3,
+    "date": 1665397288124,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #4",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "c7c77b3e266125d22d25091fe87279d8628b0012",
+    "edition": 4,
+    "date": 1665397288156,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #5",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "3e563a24856ea45ee3d3faae1184384c4ad147c6",
+    "edition": 5,
+    "date": 1665397288187,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #6",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "67714832372183ed6a3d0f6474d653fc7c9c92e8",
+    "edition": 6,
+    "date": 1665397288217,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #7",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "2c342b340ce496bc3149091a9d61a42254de7de3",
+    "edition": 7,
+    "date": 1665397288250,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #8",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "31ea0460f14cecc352c77dc82ec4f3f8d0e7ebee",
+    "edition": 8,
+    "date": 1665397288285,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #9",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "f4d6f05f38624e2b21b02bda81f6a878cf2dd198",
+    "edition": 9,
+    "date": 1665397288318,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #10",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "8dd18a508c93c1efc8f699141431b4ca2795b626",
+    "edition": 10,
+    "date": 1665397288348,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #11",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "cb5bab08d04b613ac364e3c1706e70c22e75b566",
+    "edition": 11,
+    "date": 1665397288379,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #12",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "2aff2c756e9e9532ef1f5974a1cbf072bca59c97",
+    "edition": 12,
+    "date": 1665397288406,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #13",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "154198e88d226372631b1cba31df37f08c3f3af0",
+    "edition": 13,
+    "date": 1665397288435,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #14",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "789e42f379a94045efab18dd5d0cf9430b1316bb",
+    "edition": 14,
+    "date": 1665397288465,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #15",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "2ecb8d5a47c71a6244c190df034c194cce576b53",
+    "edition": 15,
+    "date": 1665397288493,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #16",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "6ac978ef3b1732eb4e4e0d52cd0291938d1f256e",
+    "edition": 16,
+    "date": 1665397288521,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #17",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "1d07b7465e938d0af951099ac7eae38e3ae0024f",
+    "edition": 17,
+    "date": 1665397288553,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #18",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "602d33d98ce5f0c17f94b6b9ca0654fc052ec7c0",
+    "edition": 18,
+    "date": 1665397288585,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #19",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "510911d76bdbc321f2fa67116f709316fafddca5",
+    "edition": 19,
+    "date": 1665397288613,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #20",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "540fb3963c42f4df423d5d5e4e0bccf054791780",
+    "edition": 20,
+    "date": 1665397288641,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #21",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "4d1a77d7aa90b2e30591c9bc8a8a6a0262a93084",
+    "edition": 21,
+    "date": 1665397288671,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #22",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "85e5ed3dbc5fd894246ef951ccddeda12e376691",
+    "edition": 22,
+    "date": 1665397288699,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #23",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "cf676e732e5da7266d60f0349f2cdca6b323012c",
+    "edition": 23,
+    "date": 1665397288727,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #24",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "cfd41d93cb65fd54220cd5d455e218f8113ae1cf",
+    "edition": 24,
+    "date": 1665397288755,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #25",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "fd39b0c0a8dbbff769fdb39a8a0fede705138bdc",
+    "edition": 25,
+    "date": 1665397288787,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #26",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "185182afd625734f58752d2e23882ea6a3ba8edc",
+    "edition": 26,
+    "date": 1665397288818,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #27",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "aaca71e58e7efa44fb34dc99658fea2bc3077883",
+    "edition": 27,
+    "date": 1665397288851,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #28",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "4fbb9cc84b399b7f38a8d991339957784625aed4",
+    "edition": 28,
+    "date": 1665397288883,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #29",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "71bfbc00704555fb788ec5faef208460641094c8",
+    "edition": 29,
+    "date": 1665397288912,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #30",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "c54f88f2d2a7e07c7b96721d5aa46124f367f373",
+    "edition": 30,
+    "date": 1665397288943,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #31",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "5660b76a5901986a6fd5b36daf17d607ba783be6",
+    "edition": 31,
+    "date": 1665397288972,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #32",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "347ae38faf7c026c65119c7dbeddea4e6f36d8b7",
+    "edition": 32,
+    "date": 1665397289000,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #33",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "2c004ac2a160da4c18974a419d040c7fb68859ff",
+    "edition": 33,
+    "date": 1665397289031,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #34",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "24109e56f5ef4edf9ce4316542050faf524ac701",
+    "edition": 34,
+    "date": 1665397289060,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #35",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "7f3aba6eb916c1c8c2becf6398623519b6cc845e",
+    "edition": 35,
+    "date": 1665397289088,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #36",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "6baff0b0521597bce6346c25494cc0e2705784a8",
+    "edition": 36,
+    "date": 1665397289116,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #37",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "bcd244126e298b14c78d12f7f76f20063ad2d121",
+    "edition": 37,
+    "date": 1665397289149,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #38",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "51229d4f152c2e03e109215d4cf22c7877ce1f90",
+    "edition": 38,
+    "date": 1665397289178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #39",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "c529ba65703e734cec1f929fb951ebf1dcf2b06f",
+    "edition": 39,
+    "date": 1665397289209,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #40",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "bb14f7beb0bfda4ced5d49fad0a9f01eb260918b",
+    "edition": 40,
+    "date": 1665397289240,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #41",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "67160f530a5597b38d85e59e69cc9fcb6697b591",
+    "edition": 41,
+    "date": 1665397289271,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #42",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "fc61530a9861a40a75c1a2495db153b60db258a0",
+    "edition": 42,
+    "date": 1665397289300,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #43",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "001b1afa498dea8ae5e871c2ef8b1b7d6bb487d7",
+    "edition": 43,
+    "date": 1665397289331,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #44",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "2af7c997d0f13e334054965cfaaa398f3abe3ec4",
+    "edition": 44,
+    "date": 1665397289364,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #45",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "1a3b5ac46d9ee82497490521b0d212e72c3962c8",
+    "edition": 45,
+    "date": 1665397289406,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #46",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "f08265da260bdc6028a6f3de811864d2a818a4ab",
+    "edition": 46,
+    "date": 1665397289448,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #47",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "337c4fe4162b72fffc7b78bc3a9ab5369ffef83e",
+    "edition": 47,
+    "date": 1665397289487,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #48",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "4c142d4bab7e7f3b2016412e641d3d2bc1f3471a",
+    "edition": 48,
+    "date": 1665397289518,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #49",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "eb777fab406533178171a5ec93aa0dbe7122999d",
+    "edition": 49,
+    "date": 1665397289547,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #50",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "5b7e5f7b05d4089f8fce91bb522e93b2f3002a32",
+    "edition": 50,
+    "date": 1665397289574,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #51",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "a36b96ea7662819691a7f5468a0471f14af25a88",
+    "edition": 51,
+    "date": 1665397289605,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #52",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "0f83540b5e16fae9b8553f656b6aa75bd46a3324",
+    "edition": 52,
+    "date": 1665397289633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #53",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "c3712a893ac5802b0fdf56d1061773ef43791b36",
+    "edition": 53,
+    "date": 1665397289662,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #54",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "e17ead3912d9f42864184f4077cf67c666b544d9",
+    "edition": 54,
+    "date": 1665397289705,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #55",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "13686be547d1d82d4e91907edd5050972096256e",
+    "edition": 55,
+    "date": 1665397289747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #56",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "485ee3cace2433125e6c412ca82736e7b479ea60",
+    "edition": 56,
+    "date": 1665397289776,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #57",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "4d2149b49e45e3edae153e74f6dbb1561fadb148",
+    "edition": 57,
+    "date": 1665397289805,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #58",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "ed5593b6c5f645a0f03de8f466d8aff5de56d5cf",
+    "edition": 58,
+    "date": 1665397289836,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #59",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "ac61983ceda25c77127ecd9fdf35518eb9775700",
+    "edition": 59,
+    "date": 1665397289864,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #60",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "cdaed9843d8d95c268bb7ed061ddbf4ef8c731f2",
+    "edition": 60,
+    "date": 1665397289893,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #61",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "7c208bc5cb77e2009b2c1f52d4c8f30fe050d7f9",
+    "edition": 61,
+    "date": 1665397289923,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #62",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "e113ed057ab13754694ffabf4eb483feb4438bff",
+    "edition": 62,
+    "date": 1665397289951,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #63",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "b84a2add1b4ddc216e074dc2e3707ecb25eb0130",
+    "edition": 63,
+    "date": 1665397289981,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #64",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "ea8f6eda63b1ca0c373b500485a3e62d25c734c2",
+    "edition": 64,
+    "date": 1665397290008,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #65",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "3715ca250997deac0f59475342e9a4fbc86b72dd",
+    "edition": 65,
+    "date": 1665397290038,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #66",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "bc55f94c8bde955716f10007e652fef9d2bfa5d1",
+    "edition": 66,
+    "date": 1665397290066,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #67",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "3b05b9046bf0eba3f2e2b3543734db01fcc826fd",
+    "edition": 67,
+    "date": 1665397290094,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #68",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "d000c35f77a92c037c843d20cc1d7e62d1c14398",
+    "edition": 68,
+    "date": 1665397290125,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #69",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "07f71187263475e0bd49328decd11524f03be7be",
+    "edition": 69,
+    "date": 1665397290154,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #70",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "d7cf93957e5f6d79d00fc403171b4da833b796f8",
+    "edition": 70,
+    "date": 1665397290183,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #71",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "88eada440296b4ba6f340b79a6fadb1d2dc3a251",
+    "edition": 71,
+    "date": 1665397290211,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #72",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "7326b1b2cbc5b2f169736b97f8f37dea4277783b",
+    "edition": 72,
+    "date": 1665397290244,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #73",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "42cdf7e2128409555af71e0dceb1fff5fda296ba",
+    "edition": 73,
+    "date": 1665397290272,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #74",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "c1db0305abb4f5dcc0fff105990a0a80301f794a",
+    "edition": 74,
+    "date": 1665397290300,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #75",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "e948bbe910647c7db404cc7c7d1ecea032d1a2ac",
+    "edition": 75,
+    "date": 1665397290331,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #76",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "704e2389df9465e75c3fad904aa40b32838cf4cb",
+    "edition": 76,
+    "date": 1665397290359,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #77",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "f008274d69ef356067d726ef369c6ea6309e31d9",
+    "edition": 77,
+    "date": 1665397290387,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #78",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "001b1575ebd0a55cff573056528fb84f0fa6ed8b",
+    "edition": 78,
+    "date": 1665397290415,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #79",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "9d43c1e77306cb19a38f3459e1aeaed62e530d62",
+    "edition": 79,
+    "date": 1665397290447,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #80",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "208690c1c49165b69b9942c02bdebaacdddd4efe",
+    "edition": 80,
+    "date": 1665397290476,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #81",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "b61866aa697e45ae6e47f91c9b3ebb8315976dcf",
+    "edition": 81,
+    "date": 1665397290504,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #82",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "c5020767fb8229416c1e2f54dc57252b789f0a50",
+    "edition": 82,
+    "date": 1665397290535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #83",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "b1c0e18118ae56f8abf9f2dd518021938e4019d2",
+    "edition": 83,
+    "date": 1665397290562,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #84",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "0ab7be412d824a9662d49ac9c61d8366f3942529",
+    "edition": 84,
+    "date": 1665397290591,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #85",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "d445d266a8e72e2530bb9ad4996782fc99259fc7",
+    "edition": 85,
+    "date": 1665397290619,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #86",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "10a00da278e30f6c3c4ffd50aa97ac50c896dc29",
+    "edition": 86,
+    "date": 1665397290650,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #87",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "8177c42cd15ff8af811041697d2917854e720e9b",
+    "edition": 87,
+    "date": 1665397290678,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #88",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "2656e4cc08d5ec1bfa4193aa8db2667bf062d963",
+    "edition": 88,
+    "date": 1665397290706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #89",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "ecafb74b2f6713b3001267f33eae7eea340ef273",
+    "edition": 89,
+    "date": 1665397290737,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gary"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #90",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "ce202038ccf9dae985d5518058fefd60ce2444ce",
+    "edition": 90,
+    "date": 1665397290765,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #91",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "6b4b62ab9fa9d62c8d907ae2321254b75b03fcb6",
+    "edition": 91,
+    "date": 1665397290793,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #92",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "a76241cf8f82bd9d2f085cd85263b1ce6b398faa",
+    "edition": 92,
+    "date": 1665397290820,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #93",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "3026a48a4ccc5bf3440ce06354fe11260cb2d44e",
+    "edition": 93,
+    "date": 1665397290852,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #94",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "90746f94f9f5484cbe48508ec785b677b9488567",
+    "edition": 94,
+    "date": 1665397290882,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #95",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "8d2c7d950c1ca186df31a76a3f932a87e97baf3a",
+    "edition": 95,
+    "date": 1665397290909,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #96",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "aebe47ea21f64ca87efbc785e5491babd8b200df",
+    "edition": 96,
+    "date": 1665397290939,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #97",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "9dc156dcf09a8bf3a6693260a2b363c07eaebe57",
+    "edition": 97,
+    "date": 1665397290967,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #98",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "68a3bb7c573c7599176386f75fb7df1dcbaaa27a",
+    "edition": 98,
+    "date": 1665397290993,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #99",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "93c91ec0d0ef55e887c00e152b424efb47b72e61",
+    "edition": 99,
+    "date": 1665397291021,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "MaskMan #100",
+    "description": "Random MaskMan",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "2e077012e59989fd14a5daa6c318960eaf4b361d",
+    "edition": 100,
+    "date": 1665397291053,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Header",
+        "value": "Header"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
