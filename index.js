@@ -492,7 +492,7 @@ app.post("/imgupload", uploads.upload.single("files"), (req, res) => {
     const formData = req.body
     user.update(
       {
-        user_profil: "uploadimg/" + req.file.originalname.replace(".PNG", ""),
+        user_profil: "http://43.201.104.136/img/" + req.file.originalname.replace(".PNG", ""),
       },
       {
         where: {
