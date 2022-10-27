@@ -135,7 +135,8 @@ const options = {
 
 // 전달 받은 객체 형태를 해석해서 사용할수 있게 설정
 app.use(cors(options));
-app.use(express.json())
+app.use(express.json());
+app.use('/img'. express.static('uploads'))
 
 sequelize
   .sync({ force: false }) // force 강제로 초기화를 시킬것인지. (테이블 내용을 다 비워줄것인지)
