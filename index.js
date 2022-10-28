@@ -6,7 +6,7 @@ const cors = require("cors");
 const uploads = require("./public/upload");
 const { findOne } = require("./public/user");
 
-app.use("/uploadimg", express.static(__dirname + "/uploadImg"));
+
 setInterval(() => {
     console.log("매 10초 마다 실행")
     staking()
@@ -130,7 +130,7 @@ function createinit(index){
 }
 const options = {
     credentials: true,
-    origin : "http://13.125.218.188" // 이주소 허용
+    origin : "http://3.35.48.37" // 이주소 허용
 }
 
 // 전달 받은 객체 형태를 해석해서 사용할수 있게 설정
@@ -492,7 +492,7 @@ app.post("/imgupload", uploads.upload.single("files"), (req, res) => {
     const formData = req.body
     user.update(
       {
-        user_profil: "http://43.201.104.136/img/" + req.file.originalname.replace(".PNG", ""),
+        user_profil: "http://52.78.111.36/img/" + req.file.originalname.replace(".PNG", ""),
       },
       {
         where: {
