@@ -154,7 +154,7 @@ function createinit(index) {
 }
 const options = {
   credentials: true,
-  origin: "http://ec2-3-35-48-37.ap-northeast-2.compute.amazonaws.com/", // 이주소 허용
+  origin: "http://ec2-3-35-48-37.ap-northeast-2.compute.amazonaws.com", // 이주소 허용
 };
 
 // 전달 받은 객체 형태를 해석해서 사용할수 있게 설정
