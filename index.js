@@ -154,7 +154,7 @@ function createinit(index) {
 }
 const options = {
   credentials: true,
-  origin: "http://172.31.9.9", // 이주소 허용
+  origin: "*", // 이주소 허용
 };
 
 // 전달 받은 객체 형태를 해석해서 사용할수 있게 설정
@@ -656,7 +656,7 @@ app.post("/imgupload", uploads.upload.single("files"), (req, res) => {
     .update(
       {
         user_profil:
-          "http://52.78.111.36/img/" +
+          "http://52.78.111.36:8000/img/" +
           req.file.originalname.replace(".PNG", ""),
       },
       {
